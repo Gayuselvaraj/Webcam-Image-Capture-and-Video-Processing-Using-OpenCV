@@ -66,6 +66,19 @@ Video is displayed after rotation (90° clockwise)
 
 ---
 
+<img width="766" height="627" alt="image" src="https://github.com/user-attachments/assets/7f0bc33b-76da-46e2-8ad4-229a0b5ac689" />
+
+
+
+<img width="734" height="566" alt="image" src="https://github.com/user-attachments/assets/95612deb-d63e-40ac-b23e-6efe61088232" />
+
+
+<img width="382" height="561" alt="image" src="https://github.com/user-attachments/assets/6d33e10b-fca3-4ff0-8653-6c2d63b8fce1" />
+
+
+<img width="431" height="564" alt="image" src="https://github.com/user-attachments/assets/f15e308a-4c24-499e-9515-d26551195785" />
+
+
 ## Result
 
 Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
